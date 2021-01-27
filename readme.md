@@ -1,6 +1,6 @@
-# <h1 align="center">About Me :blush: </h1>
+# About Me :blush:
 
-<h4>Hey! :wave:</h3>
+**Hey! :wave:**
 
 I am a passionate and highly motivated software engineer. My strongest skills are React, Angular, Node.js, MongoDB and MySQL.
 
