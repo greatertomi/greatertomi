@@ -1,4 +1,6 @@
-# Hey! :wave:
+# About Me :blush:
+
+**Hey! :wave:**
 
 I am a passionate and highly motivated software engineer. My strongest skills are React, Angular, Node.js, MongoDB and MySQL.
 
