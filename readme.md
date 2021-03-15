@@ -2,7 +2,7 @@
 
 **Hey! :wave:**
 
-I am a passionate and highly motivated software engineer, skilled using various tech stacks. By various, I really mean tech stacks Javascript, Python and Java related.
+I am a passionate and highly motivated software engineer, skilled using various tech stacks. By various, I mean tech stacks Javascript, Python and Java related.
 
 I love building cool stuffs and I'm currently working on incorporating AI/ML capability into every application I build.
 
